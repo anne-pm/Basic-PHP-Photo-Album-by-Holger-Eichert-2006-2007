@@ -1,6 +1,6 @@
 ##  Basic PHP Photo Album by Holger Eichert [2006/2007]
 
-Another script by Holger, listed on hotscripts<span>.</span>com (https://www.hotscripts.com/listing/basic-php-photo-album/), which rescued itself into the Internet Archive [\[1\]](https://web.archive.org/web/20060720095938/http://www.niblr.com/basic-php-photo-album/basic-php-photo-album.zip) [\[2\]](https://web.archive.org/web/20120119110354/http://www.niblr.com/basic-php-photo-album/) [\[3\]](https://web.archive.org/web/20070717235211/http://www.niblr.com/basic-php-photo-album/demo/index.php?p=cat01.jpg).
+Another script by Holger, listed on hotscripts<span>.</span>com (https://www.hotscripts.com/listings/publisherInfo/515881/), which rescued itself into the Internet Archive [\[1\]](https://web.archive.org/web/20060720095938/http://www.niblr.com/basic-php-photo-album/basic-php-photo-album.zip) [\[2\]](https://web.archive.org/web/20120119110354/http://www.niblr.com/basic-php-photo-album/) [\[3\]](https://web.archive.org/web/20070717235211/http://www.niblr.com/basic-php-photo-album/demo/index.php?p=cat01.jpg).
 
 ### File data
 Last changed: 2006<br>
